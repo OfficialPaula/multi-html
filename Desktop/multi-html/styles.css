@@ -1,0 +1,33 @@
+/*Step 5: Create a
+styles.css 
+```
+file for your project with at least
+
+[3 rules](https://www.w3schools.com/css/css_syntax.asp)
+and connect that file to each HTML page to enforce a consistent style pattern across your site */
+
+
+p { 
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+    color: rgb(230, 239, 230);
+}
+
+body {
+    font-family: Arial, sans-serif;
+    color: yellowgreen;
+    background-image: url("https://burst.shopifycdn.com/photos/green-and-white-marbled-coloring.jpg?width=1200&format=pjpg&exif=1&iptc=1");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+
+  a {
+    color: white;
+  }
+
+  img {
+    border: 70px solid white;
+  }
+  
+  
